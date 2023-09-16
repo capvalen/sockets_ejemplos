@@ -1,4 +1,4 @@
-# Ejemplo de socket 
+# Ejemplo de websocket con Socket.io
 Contiene\
 Server.js => Con servidor Express y JS Clasico\
 Server2.js => Con servidor Express y ES6 JS\
