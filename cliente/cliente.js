@@ -1,5 +1,5 @@
 // Conectar al servidor Socket.IO
-const socket = io();
+const socket = io("http://localhost:3001");
 
 // Manejar eventos personalizados aquí
 
